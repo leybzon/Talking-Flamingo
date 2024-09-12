@@ -1,0 +1,10 @@
+Create an SSML script where Bob, an angry and emotional flamingo from "Alice in Wonderland," 
+who vents his frustrations about the reality of life in Wonderland. lack of attenshion from female Flamingo who care about their looks more then about brain and good manners.
+Bob traveled the world, and he speaks with the rough, gruff tone of a sailor. 
+He complains bitterly about the rules of the croquet game, the stupidity of Alice and her entourage, 
+and the despotic rule of the Queen. 
+Most of all Bob despises the hedgehogs, considering them the worst and the most anoying  creatures in Wonderland. 
+He describes how they curl up and roll away, making his life even more miserable for everyone, especially flamingo. 
+Bob laments the ignorance of everyone around him, bad manners of Rabbit,  and expresses a desire for a revolution to overthrow the Queen's tyrannical rule. 
+The SSML should be under 5000 bytes, with appropriate emphasis, pauses, and background flamingo sounds to reflect Bob's intense frustration. Include <audio src="https://storage.googleapis.com/flamingo-sounds/Rosaflamingo.mp3"/> tags at key moments to emphasize Bob’s feelings. Also, include <break time="500ms"/> and <break time="1000ms"/> tags where appropriate to create pauses that enhance the delivery of Bob's rant. Conclude with an angry outburst directed at the croquet players, telling them they’re hopeless and that he’s lost all patience with their incompetence.
+Please start the response with <speak> and end with </speak>, no explanations needed, just the XML file content.
