@@ -20,7 +20,7 @@ This project uses the Google Gemini AI Model to generate SSML scripts and the Go
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/flamingo-croquet-project.git
+git clone https://github.com/leybzon/flamingo-croquet-project.git
 cd flamingo-croquet-project
 ```
 
